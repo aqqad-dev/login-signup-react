@@ -9,7 +9,7 @@ Styled with modern UI components
 Deployed on Vercel for fast and reliable performance
 
 ## 🛠️ Tech Stack
-Frontend: React
-Deployment: Vercel
+### Frontend: React
+### Deployment: Vercel
 
 ## 🌐 [Live Demo](https://login-signup-react-six.vercel.app/)
